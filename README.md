@@ -21,4 +21,6 @@ Telegram: [Naiy_](https://t.me/naiyQAQ)
 橡木: 
   - [MPDL](https://github.com/MPDL-Official): （非开源）安卓多平台聚合式音乐播放 & 下载器
   - [番茄小说助手](https://github.com/naiyQAQ/fanqie-assistant): （GPLv3）番茄小说网页端功能增强
+  - [PyFQWeb](https://github.com/MeoProject/PyFQWeb): （GPLv3|暂停开发）番茄小说 APP 端协议的 Python 实现
+  - [LXAPI](https://github.com/MeoProject/lx-music-api-server): （MIT|暂停开发）LX Music 自定义源服务器
   - 还有一堆别的杂七杂八和给别的项目的 pr ，自行查看
